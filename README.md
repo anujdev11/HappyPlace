@@ -1,17 +1,6 @@
 # Team7
 
 - _ApplicationName_: Happy Place
-- _LiveURL_: <https://happy-place-team7.herokuapp.com>
-- _GitRepo_: <https://git.cs.dal.ca/aeshna/ti_team7_backend>
-
-## Authors
-
-- [Aeshna Verma](aeshnaverma@dal.ca) - _(Developer)_
-- [Anuj Dev](an739753@dal.ca) - _(Developer)_
-- [Chandan Shukla](chandan.shukla@dal.ca) - _(Developer)_
-- [Hana Park](hn946002@dal.ca) - _(Developer)_
-- [Julia Olmstead](julia@dal.ca) - _(Developer)_
-- [Sai Sandeep Mutyala](ss599608@dal.ca) - _(Developer)_
 
 ## Built With
 
